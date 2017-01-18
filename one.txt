@@ -1,0 +1,39 @@
+// En consola para entrar al shell (node)
+
+> 1 + 2
+3
+> 4 * 5
+20
+> var foo = 'name'
+undefined
+> var boo = 'other name'
+undefined
+> foo
+'name'
+> boo
+'other name'
+> 1 + 2 + 3
+6
+> _ + 4
+10
+> var myname = function() { return 'will' }
+undefined
+> myname()
+'will'
+> var sayMyName = function() {
+... return 'Walter'
+... }
+undefined
+> sayMyName()
+'Walter'
+> var mistake = function() {
+...
+> var mistake = function() {
+..... .break
+> var mistake = function() {
+....... .clear
+> .save sampleREPL.js
+Session save to:sampleREPL.js
+> .exit
+> .load sampleREPL.js
+
