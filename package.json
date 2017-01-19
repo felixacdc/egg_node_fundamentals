@@ -1,0 +1,22 @@
+{
+  "name": "egg_node_fundamentals",
+  "version": "1.0.0",
+  "description": "Node Js course and its fundaments",
+  "main": "arguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixacdc/egg_node_fundamentals.git"
+  },
+  "author": "Félix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixacdc/egg_node_fundamentals/issues"
+  },
+  "homepage": "https://github.com/felixacdc/egg_node_fundamentals#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
