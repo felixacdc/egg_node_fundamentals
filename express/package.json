@@ -1,0 +1,17 @@
+{
+  "name": "egg_node_intro_express",
+  "version": "1.0.0",
+  "description": "Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Félix",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
