@@ -1,6 +1,6 @@
 {
-  "name": "sayhelloworld",
-  "version": "0.1.0",
+  "name": "sayhelloworldfelix",
+  "version": "0.1.1",
   "description": "Write Hello World out to the console",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
     "hello",
     "world"
   ],
-  "author": "Félix",
-  "license": "ISC"
+  "author": "Félix Méndez",
+  "license": "MIT"
 }
